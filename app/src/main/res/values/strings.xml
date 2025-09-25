@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secret Diary</string>
+    <string name="hintname">Dear Diary...</string>
+    <string name="buttontext">Save</string>
+</resources>
